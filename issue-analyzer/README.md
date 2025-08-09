@@ -30,8 +30,8 @@ A comprehensive Python tool to analyze and generate detailed reports from closed
 
 ### Installation
 ```bash
-git clone <your-repo-url>
-cd github-issues-analyzer
+git clone https://github.com/CloudSecOpsAI/github-utilities.git
+cd github-utilities/issue-analyzer
 pip install -r requirements.txt
 ```
 

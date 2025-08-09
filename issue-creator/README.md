@@ -28,8 +28,8 @@ A powerful and flexible Python tool to automatically create GitHub issues from t
 
 ### Installation
 ```bash
-git clone <your-repo-url>
-cd github-issue-creator
+git clone https://github.com/CloudSecOpsAI/github-utilities.git
+cd github-utilities/issue-creator
 pip install -r requirements.txt
 ```
 
