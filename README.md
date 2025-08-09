@@ -233,18 +233,18 @@ If you find these tools helpful:
 
 ## 📈 Roadmap
 
-### **2024 Q4**
+### **2025 Q2**
 - ✅ Issue Creator
 - ✅ Issue Analyzer
 - 🔄 Documentation improvements
 - 🔄 Enhanced examples
 
-### **2025 Q1**
+### **2025 Q3**
 - 🚀 PR Automation tools
 - 🚀 Repository management utilities
 - 🚀 Enhanced configuration options
 
-### **2025 Q2**
+### **2025 Q4**
 - 🚀 Branch protection utilities
 - 🚀 GitHub Actions helpers
 - 🚀 Advanced automation workflows
