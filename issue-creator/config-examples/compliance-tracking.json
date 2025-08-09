@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "owner": "compliance-org",
+    "name": "security-standards"
+  },
+  "issue_template": {
+    "title_format": "Compliance Check: {item}",
+    "body_template": "## 🔒 Compliance Requirement\n\n**Standard:** {item}\n\n### Objective\nEnsure compliance with {item} security standards and requirements.\n\n### Scope\nThis issue tracks the implementation and verification of {item} compliance across our systems.\n\n### Requirements\n- [ ] Review {item} documentation\n- [ ] Assess current state against {item} requirements\n- [ ] Identify gaps and remediation actions\n- [ ] Implement necessary controls\n- [ ] Document compliance evidence\n- [ ] Schedule regular reviews\n\n### Compliance Status\n- [ ] Not Started\n- [ ] In Progress\n- [ ] Under Review\n- [ ] Compliant\n\n### Risk Level\n- [ ] Critical\n- [ ] High\n- [ ] Medium\n- [ ] Low\n\n### Evidence\nDocument evidence of {item} compliance implementation."
+  },
+  "labels": ["compliance", "security", "audit"],
+  "assignees": ["security-team", "compliance-officer"],
+  "input_file": "compliance-standards.txt"
+}
