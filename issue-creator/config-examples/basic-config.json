@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "owner": "myorg",
+    "name": "myrepo"
+  },
+  "issue_template": {
+    "title_format": "Add {item} support",
+    "body_template": "**Objective**\nImplement {item} functionality.\n\n**Description**\nThis issue tracks the implementation of {item} support in our application.\n\n**Tasks**\n- [ ] Research {item} requirements\n- [ ] Design implementation approach\n- [ ] Implement {item} functionality\n- [ ] Add tests\n- [ ] Update documentation\n\n**Acceptance Criteria**\n- {item} functionality is working as expected\n- All tests pass\n- Documentation is updated"
+  },
+  "labels": ["enhancement", "feature"],
+  "assignees": ["developer"],
+  "input_file": "features-list.txt"
+}

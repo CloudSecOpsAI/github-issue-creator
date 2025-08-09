@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "owner": "yourorg",
+    "name": "product-repo"
+  },
+  "issue_template": {
+    "title_format": "Feature Request: {item}",
+    "body_template": "## 🚀 Feature Request\n\n**Feature Name:** {item}\n\n### Description\nImplement {item} functionality to enhance user experience.\n\n### User Story\nAs a user, I want {item} so that I can improve my workflow.\n\n### Acceptance Criteria\n- [ ] {item} is fully functional\n- [ ] User interface is intuitive\n- [ ] Performance meets requirements\n- [ ] Documentation is complete\n\n### Priority\n- [ ] High\n- [ ] Medium  \n- [ ] Low\n\n### Additional Context\nAdd any additional context, mockups, or examples related to {item}."
+  },
+  "labels": ["feature-request", "enhancement"],
+  "assignees": ["product-manager", "lead-developer"],
+  "input_file": "feature-ideas.txt"
+}
